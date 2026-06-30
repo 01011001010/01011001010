@@ -297,7 +297,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>01011001010/Bachelor-thesis</span>
-                                        <span>created 21 days ago</span>
+                                        <span>created 22 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Bachelor thesis: Noise Evaluation in Data Captured by 3D Cameras</div>
@@ -400,7 +400,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 29 Jun 2026, 11:50:50 (timezone Europe/Zurich) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 30 Jun 2026, 10:32:41 (timezone Europe/Zurich) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
